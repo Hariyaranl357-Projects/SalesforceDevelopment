@@ -39,10 +39,10 @@ public with sharing class AccountTriggerHandlerClass {
             accountNameMap.put(accRec.Name, accRec);
         }
 
-        for(Account acc : newAccountList){
-            if(accountNameMap.containsKey(acc.Name)){
-                if(accountNameMap.get(acc.Name).Id != acc.Id){
-                    acc.addError('Account name already exists');
+        for(Account accone: newAccountList){
+            if(accountNameMap.containsKey(accone.Name)){
+                if(accountNameMap.get(accone.Name).Id != accone.Id){
+                    accone.addError('Account name already exists');
                 }
             }
         }
