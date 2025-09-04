@@ -16,3 +16,26 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+
+
+ Request Id:
+ 2SRNS000002jH6n4AE (​https://dns000008g2di2a0-dev-ed.develo
+ p.my.salesforce.com/2SRNS000002jH6n4AE​)
+ OrgId: 00DC4000002zlFN
+ Username: test-wtpuyorizqnq@example.com
+ Alias: lwc-recipes
+ Elapsed Time: 15.90s
+Your scratch org is ready.
+Warning: Record types defined in the scratch org definition file will stop being capitalized by default in a future release.
+Set the `org-capitalize-record-types` config var to `true` to enforce capitalization.
+
+Request Id:
+ 2SRNS000002jH6n4AE (​https://dns000008g2di2a0-dev-ed.develo
+ p.my.salesforce.com/2SRNS000002jH6n4AE​)
+ OrgId: 00DC4000002zlFN
+ Username: test-wtpuyorizqnq@example.com
+ Alias: lwc-recipes
+ Elapsed Time: 15.90s
+Your scratch org is ready.
+Warning: Record types defined in the scratch org definition file will stop being capitalized by default in a future release.
